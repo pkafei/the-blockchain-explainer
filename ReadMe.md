@@ -7,3 +7,5 @@ Ascribe: https://youtu.be/lo6FQTZ8GpY
 Hyperledger: https://youtu.be/swliX9LFerk
 <br/>
 Cardano: https://youtu.be/Q8W62Tdm0g4
+<br />
+Bytecoin: https://youtu.be/5HpZ8XLeV00
