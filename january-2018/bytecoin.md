@@ -4,7 +4,7 @@
 # Blockchain Explainer Review: Bytecoin
 [![](https://www.coinspot.com.au/public/img/coinlg/bytecoin.png?v=68)](https://bytecoin.org/)
 
-Introduction: Bytecoin was created in 2012, and was one of the first privacy coins created. Despite popular belief, bitcoin is not anonymous and transactions can be traced by third parties. Bytecoin, on the other hand, hides the identity of the sender and the reciever. 
+Introduction: Bytecoin was created in 2012, and was one of the first privacy coins created. Despite popular belief, Bitcoin is not anonymous and transactions can be traced by third parties. Bytecoin, on the other hand, hides the identity of the sender and the reciever. 
 <br />
 <b>Video:</b> https://youtu.be/5HpZ8XLeV00
 
